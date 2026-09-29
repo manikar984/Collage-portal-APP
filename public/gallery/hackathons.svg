@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Hackathon in the AI studio">
+  <rect width="800" height="360" fill="#17211c"/>
+  <rect x="60" y="70" width="220" height="140" fill="#f6f1e6"/>
+  <rect x="80" y="90" width="180" height="90" fill="#1c6b4a"/>
+  <rect x="320" y="110" width="180" height="120" fill="#b8893d"/>
+  <rect x="530" y="80" width="200" height="160" fill="#fffaf3"/>
+  <rect x="550" y="100" width="160" height="80" fill="#17211c"/>
+  <rect x="90" y="240" width="620" height="12" fill="#4c5b53"/>
+</svg>

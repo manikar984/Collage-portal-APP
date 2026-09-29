@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Convocation under the banyan">
+  <rect width="800" height="360" fill="#f4efe6"/>
+  <rect y="250" width="800" height="110" fill="#d7c7a4"/>
+  <circle cx="400" cy="150" r="90" fill="#1c6b4a"/>
+  <rect x="388" y="150" width="24" height="120" fill="#5c4030"/>
+  <circle cx="180" cy="90" r="22" fill="#b8893d"/>
+  <rect x="120" y="210" width="36" height="50" fill="#17211c"/>
+  <rect x="170" y="200" width="36" height="60" fill="#c2542f"/>
+  <rect x="560" y="205" width="36" height="55" fill="#17211c"/>
+  <rect x="610" y="195" width="36" height="65" fill="#1c6b4a"/>
+</svg>

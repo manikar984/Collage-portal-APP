@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 96" role="img" aria-label="Student photo">
+  <rect width="80" height="96" fill="#d9e2f0"/>
+  <circle cx="40" cy="34" r="16" fill="#c4a484"/>
+  <path d="M18 34c2-16 42-16 44 0-6-8-38-8-44 0z" fill="#3b2a1a"/>
+  <path d="M14 96c4-24 48-24 52 0" fill="#1f4e79"/>
+</svg>
